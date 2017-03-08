@@ -1,0 +1,11 @@
+C:\Users\Test001\Desktop\DemoGetData\DemoGetData\obj\x86\Debug\DemoGetData.Form1.resources
+C:\Users\Test001\Desktop\DemoGetData\DemoGetData\obj\x86\Debug\DemoGetData.Properties.Resources.resources
+C:\Users\Test001\Desktop\DemoGetData\DemoGetData\obj\x86\Debug\DemoGetData.csproj.GenerateResource.Cache
+C:\Users\Test001\Desktop\DemoGetData\DemoGetData\bin\Debug\DemoGetData.exe
+C:\Users\Test001\Desktop\DemoGetData\DemoGetData\bin\Debug\DemoGetData.pdb
+C:\Users\Test001\Desktop\DemoGetData\DemoGetData\obj\x86\Debug\DemoGetData.exe
+C:\Users\Test001\Desktop\DemoGetData\DemoGetData\obj\x86\Debug\DemoGetData.pdb
+C:\Users\Test001\Desktop\DemoGetData\DemoGetData\obj\x86\Debug\DemoGetData.csprojResolveAssemblyReference.cache
+C:\Users\Test001\Desktop\DemoGetData\DemoGetData\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Test001\Desktop\DemoGetData\DemoGetData\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Test001\Desktop\DemoGetData\DemoGetData\bin\Debug\HtmlAgilityPack.xml
